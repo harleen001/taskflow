@@ -10,7 +10,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "TaskFlow - Your Personal To-Do Manager",
   description: "Beautiful task management app with authentication, priority levels, and smart sorting",
-  generator: "v0.app",
   icons: {
     icon: "/icon.svg",
   },
